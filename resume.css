@@ -15,7 +15,7 @@ body{
 	font-size: 0.9em;
 	text-indent: 1.6em; /*一个元素 首行 文本内容之前应该有多少水平空格*/
     background:  rgb(3, 101, 182);
-    height:5000;/*这样不行....???*/
+    height:1500px;/*这样不行....???*/
 }
 #left-part p
 {
